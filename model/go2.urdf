@@ -172,6 +172,9 @@ Stephen Brawner (brawner@gmail.com)
       upper="1.0472"
       effort="23.7"
       velocity="30.1" />
+    <dynamics 
+      damping="0.0312" 
+      friction="0.131"/>
   </joint>
   <link name="FL_hip_rotor">
     <inertial>
@@ -239,6 +242,9 @@ Stephen Brawner (brawner@gmail.com)
       upper="3.4907"
       effort="23.7"
       velocity="30.1" />
+    <dynamics 
+      damping="0.0172" 
+      friction="0.174"/>
   </joint>
   <link name="FL_thigh_rotor">
     <inertial>
@@ -306,6 +312,9 @@ Stephen Brawner (brawner@gmail.com)
       upper="-0.83776"
       effort="45.43"
       velocity="15.70" />
+    <dynamics 
+      damping="0.0415" 
+      friction="0.846"/>
   </joint>
   <link
     name="FL_calflower">
@@ -495,6 +504,9 @@ Stephen Brawner (brawner@gmail.com)
       upper="1.0472"
       effort="23.7"
       velocity="30.1" />
+    <dynamics 
+      damping="0.0255" 
+      friction="0.132"/>
   </joint>
   <link name="FR_hip_rotor">
     <inertial>
@@ -562,6 +574,9 @@ Stephen Brawner (brawner@gmail.com)
       upper="3.4907"
       effort="23.7"
       velocity="30.1" />
+    <dynamics 
+      damping="0.019" 
+      friction="0.154"/>
   </joint>
   <link name="FR_thigh_rotor">
     <inertial>
@@ -629,6 +644,9 @@ Stephen Brawner (brawner@gmail.com)
       upper="-0.83776"
       effort="45.43"
       velocity="15.70" />
+    <dynamics 
+      damping="0.0515" 
+      friction="0.38"/>
   </joint>
   <link
     name="FR_calflower">
@@ -818,6 +836,9 @@ Stephen Brawner (brawner@gmail.com)
       upper="1.0472"
       effort="23.7"
       velocity="30.1" />
+    <dynamics 
+      damping="0.0279" 
+      friction="0.154"/>
   </joint>
   <link name="RL_hip_rotor">
     <inertial>
@@ -885,6 +906,9 @@ Stephen Brawner (brawner@gmail.com)
       upper="4.5379"
       effort="23.7"
       velocity="30.1" />
+    <dynamics 
+      damping="0.0176" 
+      friction="0.125"/>
   </joint>
   <link name="RL_thigh_rotor">
     <inertial>
@@ -952,6 +976,9 @@ Stephen Brawner (brawner@gmail.com)
       upper="-0.83776"
       effort="45.43"
       velocity="15.70" />
+    <dynamics 
+      damping="0.0381" 
+      friction="0.412"/>
   </joint>
   <link
     name="RL_calflower">
@@ -1141,6 +1168,9 @@ Stephen Brawner (brawner@gmail.com)
       upper="1.0472"
       effort="23.7"
       velocity="30.1" />
+    <dynamics 
+      damping="0.0564" 
+      friction="0.141"/>
   </joint>
   <link name="RR_hip_rotor">
     <inertial>
@@ -1208,6 +1238,9 @@ Stephen Brawner (brawner@gmail.com)
       upper="4.5379"
       effort="23.7"
       velocity="30.1" />
+    <dynamics 
+      damping="0.0355" 
+      friction="0.145"/>
   </joint>
   <link name="RR_thigh_rotor">
     <inertial>
@@ -1275,6 +1308,9 @@ Stephen Brawner (brawner@gmail.com)
       upper="-0.83776"
       effort="45.43"
       velocity="15.70" />
+    <dynamics 
+      damping="0.0518" 
+      friction="0.672"/>
   </joint>
   <link
     name="RR_calflower">
