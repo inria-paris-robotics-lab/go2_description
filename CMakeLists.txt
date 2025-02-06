@@ -32,6 +32,7 @@ endif()
 set(PROJECT_USE_CMAKE_EXPORT TRUE)
 
 include("${JRL_CMAKE_MODULES}/base.cmake")
+include("${JRL_CMAKE_MODULES}/python.cmake")
 
 # Project setup
 compute_project_args(PROJECT_ARGS LANGUAGES CXX)
@@ -46,5 +47,9 @@ target_compile_definitions( ${PROJECT_NAME} INTERFACE
 
 install(TARGETS ${PROJECT_NAME} EXPORT ${TARGETS_EXPORT_NAME})
 install(DIRECTORY model DESTINATION share/${PROJECT_NAME})
+
+# Python
+findpython(REQUIRED)
+add_subdirectory(python)
 
 setup_project_finalize()
