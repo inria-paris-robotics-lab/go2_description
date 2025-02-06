@@ -27,7 +27,7 @@ Stephen Brawner (brawner@gmail.com)
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://example-robot-data/robots/go2_description/dae/base.dae" />
+          filename="package://go2_description/model/assets/base.dae" />
       </geometry>
       <material
         name="">
@@ -140,7 +140,7 @@ Stephen Brawner (brawner@gmail.com)
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://example-robot-data/robots/go2_description/dae/hip.dae" />
+          filename="package://go2_description/model/assets/hip.dae" />
       </geometry>
       <material
         name="">
@@ -207,7 +207,7 @@ Stephen Brawner (brawner@gmail.com)
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://example-robot-data/robots/go2_description/dae/thigh.dae" />
+          filename="package://go2_description/model/assets/thigh.dae" />
       </geometry>
       <material
         name="">
@@ -274,7 +274,7 @@ Stephen Brawner (brawner@gmail.com)
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://example-robot-data/robots/go2_description/dae/calf.dae" />
+          filename="package://go2_description/model/assets/calf.dae" />
       </geometry>
       <material
         name="">
@@ -413,7 +413,7 @@ Stephen Brawner (brawner@gmail.com)
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://example-robot-data/robots/go2_description/dae/foot.dae" />
+          filename="package://go2_description/model/assets/foot.dae" />
       </geometry>
       <material
         name="">
@@ -463,7 +463,7 @@ Stephen Brawner (brawner@gmail.com)
         rpy="3.1415 0 0" />
       <geometry>
         <mesh
-          filename="package://example-robot-data/robots/go2_description/dae/hip.dae" />
+          filename="package://go2_description/model/assets/hip.dae" />
       </geometry>
       <material
         name="">
@@ -530,7 +530,7 @@ Stephen Brawner (brawner@gmail.com)
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://example-robot-data/robots/go2_description/dae/thigh_mirror.dae" />
+          filename="package://go2_description/model/assets/thigh_mirror.dae" />
       </geometry>
       <material
         name="">
@@ -597,7 +597,7 @@ Stephen Brawner (brawner@gmail.com)
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://example-robot-data/robots/go2_description/dae/calf_mirror.dae" />
+          filename="package://go2_description/model/assets/calf_mirror.dae" />
       </geometry>
       <material
         name="">
@@ -736,7 +736,7 @@ Stephen Brawner (brawner@gmail.com)
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://example-robot-data/robots/go2_description/dae/foot.dae" />
+          filename="package://go2_description/model/assets/foot.dae" />
       </geometry>
       <material
         name="">
@@ -786,7 +786,7 @@ Stephen Brawner (brawner@gmail.com)
         rpy="0 3.1415 0" />
       <geometry>
         <mesh
-          filename="package://example-robot-data/robots/go2_description/dae/hip.dae" />
+          filename="package://go2_description/model/assets/hip.dae" />
       </geometry>
       <material
         name="">
@@ -853,7 +853,7 @@ Stephen Brawner (brawner@gmail.com)
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://example-robot-data/robots/go2_description/dae/thigh.dae" />
+          filename="package://go2_description/model/assets/thigh.dae" />
       </geometry>
       <material
         name="">
@@ -920,7 +920,7 @@ Stephen Brawner (brawner@gmail.com)
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://example-robot-data/robots/go2_description/dae/calf.dae" />
+          filename="package://go2_description/model/assets/calf.dae" />
       </geometry>
       <material
         name="">
@@ -1059,7 +1059,7 @@ Stephen Brawner (brawner@gmail.com)
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://example-robot-data/robots/go2_description/dae/foot.dae" />
+          filename="package://go2_description/model/assets/foot.dae" />
       </geometry>
       <material
         name="">
@@ -1109,7 +1109,7 @@ Stephen Brawner (brawner@gmail.com)
         rpy="3.1415 3.1415 0" />
       <geometry>
         <mesh
-          filename="package://example-robot-data/robots/go2_description/dae/hip.dae" />
+          filename="package://go2_description/model/assets/hip.dae" />
       </geometry>
       <material
         name="">
@@ -1176,7 +1176,7 @@ Stephen Brawner (brawner@gmail.com)
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://example-robot-data/robots/go2_description/dae/thigh_mirror.dae" />
+          filename="package://go2_description/model/assets/thigh_mirror.dae" />
       </geometry>
       <material
         name="">
@@ -1243,7 +1243,7 @@ Stephen Brawner (brawner@gmail.com)
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://example-robot-data/robots/go2_description/dae/calf_mirror.dae" />
+          filename="package://go2_description/model/assets/calf_mirror.dae" />
       </geometry>
       <material
         name="">
@@ -1382,7 +1382,7 @@ Stephen Brawner (brawner@gmail.com)
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://example-robot-data/robots/go2_description/dae/foot.dae" />
+          filename="package://go2_description/model/assets/foot.dae" />
       </geometry>
       <material
         name="">
