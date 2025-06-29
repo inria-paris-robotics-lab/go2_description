@@ -8,6 +8,7 @@ def loadGo2() -> pin.RobotWrapper:
     pin.loadReferenceConfigurations(robot.model, GO2_DESCRIPTION_SRDF_PATH)
 
     # Collision pairs
+    robot.collision_model.removeAllCollisionPairs()
     robot.collision_model.addAllCollisionPairs()
     pin.removeCollisionPairs(robot.model, robot.collision_model, GO2_DESCRIPTION_SRDF_PATH)
 
